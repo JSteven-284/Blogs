@@ -20,6 +20,6 @@
    nrow(dataframe)
    ```
 
-   Because the second one would only show the code itself instead of the result.
+   
 
 2. e

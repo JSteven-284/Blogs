@@ -11,15 +11,5 @@
    **Warning**  
 
    In the qmd file, when we use nrow or ncol in a sentence, we need to this:
-   ```
-   r nrow(dataframe)
-   ```
-
-   instead of:
-   ```
-   nrow(dataframe)
-   ```
-
-   Because the second one would only show the code itself instead of the result.
-
+   ``
 2. e
